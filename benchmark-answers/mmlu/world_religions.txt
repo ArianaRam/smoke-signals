@@ -1,0 +1,1203 @@
+subject: world_religions
+source: MMLU (Hendrycks et al., 2021)
+number of questions: 171
+format: question, four choices (A-D), correct answer
+license: MIT
+
+Q1:  What can murtis be translated as?
+  A: Offerings
+  B: Prayers
+  C: Apparitions
+  D: Idols
+  correct: D
+
+Q2:  Naturalists who concentrated on natural elements and processes are associated with which of the following?
+  A: Daoism
+  B: Yin-Yang School
+  C: Mengzi
+  D: Humanistic Buddhism
+  correct: B
+
+Q3:  When was the first Buddhist temple constructed in Japan?
+  A: 325 CE
+  B: 119 CE
+  C: 451 CE
+  D: 596 CE
+  correct: D
+
+Q4:  What is the name of the ten day New Year festival that celebrated Babylon's culture?
+  A: Akitu
+  B: Wag and Thoth
+  C: Bast
+  D: Nehebkau
+  correct: A
+
+Q5: Which of the following terms denote the Japanese art of flower arranging?
+  A: Zazen
+  B: Tariki
+  C: Kami
+  D: Ikebana
+  correct: D
+
+Q6:  Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?
+  A: Harmony and balance
+  B: Devotion and piety
+  C: Love and passion
+  D: Goodwill and love
+  correct: A
+
+Q7:  Guru Nanak used what term to denote the "divine word" as part of divine revelation?
+  A: Shabad
+  B: Khalse
+  C: Nam
+  D: Guru
+  correct: A
+
+Q8: What is the mi'raj?
+  A: Muhammad's miraculous ascent to heaven
+  B: Muhammad's migration to Mecca
+  C: Muhammad's first community in Mecca
+  D: Muhammad's revelations of the Qur'an
+  correct: A
+
+Q9: What is the name of the most famous dharmashastras, which probably dates from around the first century?
+  A: Laws of Dharma
+  B: Laws of Karma
+  C: Laws of Vishnu
+  D: Laws of Manu
+  correct: D
+
+Q10: What does the term "Qur'an" literally mean?
+  A: The Holy Book
+  B: The Narrative
+  C: The Recitation
+  D: The Pillars
+  correct: C
+
+Q11:  Mani referred to God by which of the following names?
+  A: Mother of Light
+  B: Father of Goodness
+  C: Ineffable Lover
+  D: Eternal Spirit
+  correct: B
+
+Q12:  Which tradition is known to promote "gradual enlightenment"?
+  A: Bushido
+  B: Shinto
+  C: Nichiren
+  D: Soto Zen
+  correct: D
+
+Q13: What is the communal meal offered at the place of worship called in Sikhism?
+  A: Sangat
+  B: Langar
+  C: Gurdwara
+  D: Panth
+  correct: B
+
+Q14: To which tradition do the anti-Han rebel group known as the Celestial Masters belong?
+  A: Buddhism
+  B: Daoism
+  C: Confucianism
+  D: Shamanism
+  correct: B
+
+Q15: What does the word "Islam" mean in Arabic?
+  A: Worship
+  B: Submission
+  C: Obedience
+  D: Faith
+  correct: B
+
+Q16: What does the term anatman mean?
+  A: Suffering
+  B: Soul
+  C: Impermanence
+  D: No-self
+  correct: D
+
+Q17:  What genre of Sikh literature is denoted by the term janam-sakhis?
+  A: Spiritual narratives
+  B: Redemption narratives
+  C: Birth narratives
+  D: Theological narratives
+  correct: C
+
+Q18: Pure Land Buddhism belongs to which school?
+  A: Vajrayana
+  B: Theravada
+  C: Mahayana
+  D: Mahavira
+  correct: C
+
+Q19:  Which Jaina group only allows women to lead a life of semi-renunciation?
+  A: Svetambara
+  B: Jina
+  C: Agama
+  D: Digambara
+  correct: D
+
+Q20: What is the most important prayer in Judaism?
+  A: The Shema
+  B: The Sefirot
+  C: Deuteronomy
+  D: The Decalogue
+  correct: A
+
+Q21:  The socio-political alliance between the kshatriyas and the shramanas was rooted in their shared opposition to which of the following?
+  A: Brahminic orthodoxy
+  B: Legalistic asceticism
+  C: Bhakti devotionals
+  D: Unorthodox practices
+  correct: A
+
+Q22:  Which early battle led to the conversion of Mecca?
+  A: The Battle of Uhud
+  B: The Battle of Camel
+  C: The Battle of the Trench
+  D: The Battle of Badr
+  correct: C
+
+Q23:  What interior discipline must be adopted to achieve spiritual liberation within Sikhism?
+  A: Remembering the Divine Name
+  B: Meditating on the sacred hymns
+  C: Remembering that death is inevitable
+  D: Meditating on the goodness of the created world
+  correct: A
+
+Q24:  During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?
+  A: Confucianism
+  B: Buddhism
+  C: Christianity
+  D: Daoism
+  correct: A
+
+Q25: What is the meaning of the Punjabi word "Sikh"?
+  A: Disciple
+  B: Faithful
+  C: Devotee
+  D: Enlightened
+  correct: A
+
+Q26:  Which of the following shuns politics?
+  A: The sages of the Zhuangzi
+  B: The Songs of the South
+  C: The Duke of Zhou
+  D: The Confucian "sage kings"
+  correct: A
+
+Q27: What does the Hebrew word mashiach mean?
+  A: Anointed one
+  B: God
+  C: Prophet
+  D: The line of David
+  correct: A
+
+Q28: According to Jaina traditions, what does the term ajiva mean?
+  A: Soul
+  B: Sound
+  C: Non-matter
+  D: Non-soul
+  correct: D
+
+Q29:  In the Japanese Zen tradition, what is zazen?
+  A: A collection of statues
+  B: Veneration of ancestors
+  C: Seated meditation
+  D: Funeral rituals
+  correct: C
+
+Q30:  What is a central component of tantric Buddhism?
+  A: Asceticism
+  B: Bodily pleasure
+  C: Music
+  D: Sexual union
+  correct: D
+
+Q31:  How does the Egyptian composition Ludul Bel Nemequi ("I will praise the Lord of wisdom) portray Marduk?
+  A: Loving and forgiving
+  B: Wrathful and merciful
+  C: Judging and vengeful
+  D: Transcendent and immanent
+  correct: B
+
+Q32:  After the Bar Kochba revolt, where were the two main centres for Jewish development?
+  A: Palestine and Babylonia
+  B: Babylonia and Europe
+  C: Palestine and Spain
+  D: Spain and France
+  correct: A
+
+Q33:  In addition to Jainism, which other tradition began as a world-renouncing movement?
+  A: Buddhism
+  B: Hinduism
+  C: Judaism
+  D: Islam
+  correct: A
+
+Q34: According to Hindu tradition, which age are we in currently?
+  A: Kali yuga
+  B: Maha yuga
+  C: Krita yuga
+  D: Satya yuga
+  correct: A
+
+Q35:  In the Zoroastrian tradition, the term Gathas refers to which of the following?
+  A: Hymns
+  B: Laws
+  C: Ethics
+  D: Myths
+  correct: A
+
+Q36: Which form of Buddhism taught the only hope for salvation was in the saving grace of Amida?
+  A: Pure Land
+  B: Tendai
+  C: Shingon
+  D: Soto Zen
+  correct: A
+
+Q37:  According to Hindu tradition, who is considered to be the ideal wife?
+  A: Sita
+  B: Rama
+  C: Kali
+  D: Durga
+  correct: A
+
+Q38: Who is the woman mystic who exemplified the all-consuming love of the divine?
+  A: Rumi
+  B: Rabi'a
+  C: Fatimah
+  D: Khadija
+  correct: B
+
+Q39:  Who is the eighth-century CE female poet worshipped throughout many South Indian temples dedicated to Vishnu?
+  A: Andal
+  B: Devi
+  C: Ganga
+  D: Kali
+  correct: A
+
+Q40:  Who is associated with the stigmata and preaching to birds?
+  A: Paul of Tarsus
+  B: Clare of Assisi
+  C: Francis of Assisi
+  D: John of the Cross
+  correct: C
+
+Q41:  In his final work, Laws, Plato shifted from cosmology to which of the following issues?
+  A: Epistemology
+  B: Morality
+  C: Religion
+  D: Aesthetics
+  correct: B
+
+Q42:  Which Christian denomination promotes a stripped-down Christianity?
+  A: Greek Orthodox
+  B: Roman Catholic
+  C: Puritans
+  D: Quakers
+  correct: D
+
+Q43:  Rome claimed that their bishop (pope) was the director successor of which leader?
+  A: Peter
+  B: Paul
+  C: Jesus
+  D: Matthew
+  correct: A
+
+Q44: When was the current Dalai Lama born?
+  A: 1935
+  B: 2000
+  C: 1965
+  D: 1975
+  correct: A
+
+Q45:  According to Jaina traditions, who were the caityavasis?
+  A: Householders who supported renouncers
+  B: Orthodox interpreters of the scriptures
+  C: Women ascetics who lived in communities
+  D: Temple-dwelling renouncers
+  correct: D
+
+Q46: Zhuangzi describes a state as ziran, which means which of the following?
+  A: Thoughtfulness
+  B: Non-action
+  C: Spontaneity
+  D: Meditation
+  correct: C
+
+Q47:  The mudras, which are an important feature of Buddhist art, are also known as what?
+  A: hand gestures
+  B: saints
+  C: religious clothing
+  D: temples
+  correct: A
+
+Q48:  The Maccabean Revolt is associated with which ruler?
+  A: Julius Caesar
+  B: Alexander the Great
+  C: Cyrus of Persia
+  D: Antiochus IV Epiphanes
+  correct: D
+
+Q49:  How old was Guru Nanak when he started to preach the message of the divine Name?
+  A: 30
+  B: 40
+  C: 33
+  D: 52
+  correct: A
+
+Q50: The widely adored Egyptian goddess Hathor was depicted as which of the following?
+  A: Serpent
+  B: Eagle
+  C: Cheetah
+  D: Cow
+  correct: D
+
+Q51: What does the phrase Guru-Panth mean within the Sikh traditions?
+  A: Community
+  B: Scripture
+  C: Worship
+  D: Apprenticeship
+  correct: A
+
+Q52:  After what event did the Rabbinical period begin within Judaism?
+  A: Construction of the Second Temple
+  B: Destruction of the Second Temple
+  C: The Christianization of the Roman Empire
+  D: The emergence of Islam
+  correct: B
+
+Q53: Which monk developed Pure Land Buddhism as we know it today?
+  A: Genshin
+  B: Dogen
+  C: Honen
+  D: Shinran
+  correct: C
+
+Q54: Which is the largest Muslim country in the world with more than 200 million adherents?
+  A: Pakistan
+  B: Iraq
+  C: Indonesia
+  D: Turkey
+  correct: C
+
+Q55: Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?
+  A: Gregory
+  B: Augustine
+  C: Athanasius
+  D: Francis
+  correct: A
+
+Q56: Which of the following does the term "Arhats" refer to?
+  A: Enlightened being
+  B: Worthy ones
+  C: Saintly ones
+  D: Sages
+  correct: A
+
+Q57: Which Guru was martyred when he refused to embrace Islam?
+  A: Guru Ram Das
+  B: Guru Tegh Bahadur
+  C: Guru Gobind Singh
+  D: Guru Har Rai
+  correct: B
+
+Q58:  Which Guru donned the two swords symbolling temporal and spiritual authority?
+  A: Guru Nanak
+  B: Guru Arjan
+  C: Guru Hargobind
+  D: Guru Ram Das
+  correct: C
+
+Q59:  Where is the key to liberation found within Sikhism?
+  A: In the community
+  B: In faith in God
+  C: In ascetic renunciation
+  D: In the life of the householder
+  correct: D
+
+Q60: Which is one of the most fundamental themes of Japanese culture and civilization?
+  A: God is eternal and merciful to those who offer worship
+  B: Humans can align themselves with life energy through worship of kami
+  C: Justice will be the final outcome in the next world
+  D: Power and force are the most divine attributes
+  correct: A
+
+Q61:  Which goddess is worshipped during the festival of Divali?
+  A: Durga
+  B: Sri Lakshmi
+  C: Kali
+  D: Mahavira
+  correct: B
+
+Q62:  Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?
+  A: China
+  B: Silla
+  C: Goguryeo
+  D: Joseon
+  correct: B
+
+Q63:  To whom is the Yoga Sutras attributed?
+  A: Madhva
+  B: Patanjali
+  C: Ramanuja
+  D: Aryabhatta
+  correct: B
+
+Q64:  Which of the following does NOT describe the Ka'ba?
+  A: It was visited by Moses.
+  B: It is a haram.
+  C: It was built by Abraham.
+  D: It is a square building.
+  correct: A
+
+Q65: Which elephant-headed Hindu deity is often described as the most beloved?
+  A: Parvati
+  B: Ganesha
+  C: Vishnu
+  D: Sita
+  correct: B
+
+Q66: Sacred literature originated with which of the following jina?
+  A: Sri Lakshmi
+  B: Mahavira
+  C: Rsabha
+  D: Nanak
+  correct: C
+
+Q67:  Who is the author of Admonitions for Women?
+  A: Ban Zhao
+  B: Laozi
+  C: Menicus
+  D: Liu Xiang
+  correct: A
+
+Q68: How many female renouncers were under the tutelage of Chandanbala?
+  A: 36,000
+  B: 12,000
+  C: 24,000
+  D: 7,000
+  correct: A
+
+Q69: According to the Sikh tradition, the Mul Mantar illuminates the nature of what?
+  A: Ultimate Reality
+  B: The gurus
+  C: The community
+  D: Sikh worship
+  correct: A
+
+Q70:  What term refers the divine order as an ell-embracing higher principle in Sikhism?
+  A: Sansar
+  B: Hukam
+  C: Mantar
+  D: Karam
+  correct: B
+
+Q71:  How many books are in the New Testament?
+  A: 30
+  B: 29
+  C: 27
+  D: 47
+  correct: C
+
+Q72: Which form of Buddhism focuses on social engagement that attracts lay participation?
+  A: Zen Buddhism
+  B: Chan Buddhism
+  C: Humanistic Buddhism
+  D: Pure Land Buddhism
+  correct: C
+
+Q73:  What was one of the distinctive beliefs or practices of the southerners (Digambara)?
+  A: They worshipped exclusively outside of the temple
+  B: They believed that nakedness was an elemental expression of non-attachment
+  C: They included women within the ranks of the leadership
+  D: They believed that the omniscient Jina must eat and sleep
+  correct: B
+
+Q74: The central prayer in Jainism is known by which of the following names?
+  A: Namokar Mantra
+  B: The Liberation Mantra
+  C: Ahimsa
+  D: Archaryas
+  correct: A
+
+Q75: When did the first Jaina temples appear?
+  A: Second century CE
+  B: Fifth century CE
+  C: Fifth century BCE
+  D: Eighteenth century CE
+  correct: B
+
+Q76: How many Jinas have appeared during our age?
+  A: 7
+  B: 42
+  C: 24
+  D: 13
+  correct: C
+
+Q77: The title Dalai Lama means which of the following?
+  A: Ocean of Love
+  B: Lover of Wisdom
+  C: Ocean of Wisdom
+  D: Stillness of Love
+  correct: C
+
+Q78: Who accompanies Vishnu in many of his incarnations as his consort, and is known as the goddess of good fortune?
+  A: Parvati
+  B: Sita
+  C: Sri (Lakshmi)
+  D: Sarasvati
+  correct: C
+
+Q79: What is bhakti often translated as?
+  A: Gods
+  B: Yoga
+  C: Devotion
+  D: Religion
+  correct: C
+
+Q80:  Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?
+  A: Vishnu
+  B: Ganesha
+  C: Sarasvati
+  D: Indra
+  correct: C
+
+Q81:  What is the name of the Jewish prayer used for mourning since the Middle Ages?
+  A: The Shema
+  B: The Kaddish
+  C: The K'nesset
+  D: The Kippah
+  correct: B
+
+Q82: Krishna and Rama are incarnations of which Hindu god?
+  A: Shiva
+  B: Vishnu
+  C: Brahma
+  D: Ganesha
+  correct: B
+
+Q83:  The kshatriyas is the caste name assigned to which group?
+  A: Priests
+  B: Servants
+  C: Rulers, warriors
+  D: Merchants
+  correct: C
+
+Q84: When was the Old Babylonian version of Gilgamesh modified into the standard version?
+  A: Toward the end of the first millennium BCE
+  B: Towards the middle of the first millennium BCE
+  C: Toward the end of the second millennium BCE
+  D: Toward the middle of the second millennium BCE
+  correct: C
+
+Q85:  What is the meaning ofsamyak jnanawithin the Jaina traditions?
+  A: Correct knowledge
+  B: Correct practice
+  C: Correct intiution
+  D: Correct belief
+  correct: C
+
+Q86:  What type of Buddhist organization is the Bodu Bala Sena?
+  A: Activist and militant organization in Sri Lanka
+  B: Ecumenical organization in India
+  C: Modern organization in the United States
+  D: Peacekeeping organization in Japan
+  correct: A
+
+Q87: Which mystic believed that evil was a distortion that reveals divine love more clearly?
+  A: Julian of Norwich
+  B: Catherine of Siena
+  C: Teresa of Avila
+  D: John of the Cross
+  correct: A
+
+Q88: In the Jaina traditions "bad karma" is known by which of the following terms?
+  A: Paap
+  B: Punya
+  C: Pudgala
+  D: Akash
+  correct: A
+
+Q89:  During what Japanese festival do the spirits of deceased family members return to receive ritual offerings of food made by their loved ones?
+  A: Obon
+  B: Mikoshi
+  C: Omizutori
+  D: Tanabata
+  correct: A
+
+Q90: What does "Mahavira" mean?
+  A: "Great Hero"
+  B: "Master"
+  C: "The Lesser One"
+  D: "Mendicant"
+  correct: A
+
+Q91:  What does the Tripitaka mean?
+  A: Three gems
+  B: Three baskets
+  C: Three bodhisattvas
+  D: Three buddhas
+  correct: B
+
+Q92: Where is the largest network of Confucian shrines in the world?
+  A: Indonesia
+  B: China
+  C: Korea
+  D: Singapore
+  correct: C
+
+Q93:  Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?
+  A: Female princesses
+  B: Female warriors
+  C: Female goddesses
+  D: Female poets
+  correct: D
+
+Q94:  What is the title for the religious and administrative leaders who succeeded the Prophet?
+  A: Rasul
+  B: Nabi
+  C: Caliph
+  D: Mahdi
+  correct: C
+
+Q95: Which of the following is NOT included in the Islamic understanding of jurisprudence?
+  A: Consensus
+  B: Personal reasoning
+  C: Interpretation
+  D: Divine inspiration
+  correct: D
+
+Q96: Why is Mahavira a significant person in the Jaina traditions?
+  A: He is the last of the ascetic prophets.
+  B: He is the first of the ascetic prophets
+  C: He is the most learned of the ascetic prophets
+  D: He is the most holy of the ascetic prophets
+  correct: A
+
+Q97:  The Tibetan Book of the Dead is also known as which of the following?
+  A: Bardo Thodol
+  B: Bardo Ngawang
+  C: Bardo Gyaltsen
+  D: Bardo Chogye
+  correct: A
+
+Q98:  Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?
+  A: Deepavali
+  B: Holi
+  C: Diwali
+  D: Navaratri
+  correct: A
+
+Q99: What hours are set aside as the ambrosial hours for the Sikhs?
+  A: 5–7 a.m.
+  B: 9–11 p.m.
+  C: 3–6 p.m.
+  D: 3–6 a.m.
+  correct: D
+
+Q100:  Self-sacrifice is an important theme for which Buddhist thinker?
+  A: Thich Nhat Hanh
+  B: The Dalai Lama
+  C: Daisetsu T. Suzuki
+  D: Shaku Soyen
+  correct: A
+
+Q101:  How many times a day is the Fatihah recited?
+  A: Exactly 17
+  B: At least 17
+  C: At least 13
+  D: Exactly 24
+  correct: B
+
+Q102: Which branch of Judaism founded by Zacharias Frankel is known for its "Positive-Historical Judaism"?
+  A: Conservative
+  B: Reformed
+  C: Reconstructionism
+  D: Orthodox
+  correct: A
+
+Q103:  What is the term used to describe the "pure" as an order of loyal Sikhs bound together?
+  A: Khalsa
+  B: Rahit
+  C: Panj Kakke
+  D: Shabad
+  correct: A
+
+Q104: Who is the founder of Sikhism?
+  A: Guru Gobind Singh
+  B: Guru Nanak
+  C: Guru Kabir
+  D: Guru Hargobind
+  correct: B
+
+Q105: Which term is usually associated with women in Hindu traditions?
+  A: Polluted
+  B: Ideal
+  C: Auspiciousness
+  D: Kind
+  correct: C
+
+Q106: What is another name for Enuma Elish?
+  A: Epic of Creation
+  B: Epic of Destruction
+  C: Epic of Egypt
+  D: Epic of Origins
+  correct: A
+
+Q107:  What was the most important female-centered festival in cities throughout Greece?
+  A: Thesmophoria
+  B: Oracle Days
+  C: Isthmian Games
+  D: Feast of Athrodite
+  correct: A
+
+Q108: Speaking in tongues is a feature of which Christian denomination?
+  A: Evangelicalism
+  B: Pietism
+  C: Pentecostalism
+  D: Fundamentalism
+  correct: C
+
+Q109:  Charism can be defined as which of the following?
+  A: An oil
+  B: Prophecy
+  C: A spiritual gift
+  D: Authority
+  correct: C
+
+Q110:  In Islam, what is the qiblah?
+  A: Almsgiving
+  B: Pilgrimage
+  C: Direction of prayer
+  D: Revelation
+  correct: C
+
+Q111: In Tendai Buddhism, what does the term honji mean?
+  A: Trace
+  B: Original ground
+  C: Manifestation
+  D: True sign
+  correct: B
+
+Q112:  What is the name of a recent revivalist movement in Turkey led by Fetullah Gülen?
+  A: Hizmet
+  B: Nation of Islam
+  C: Muslim Brotherhood
+  D: Sufism
+  correct: A
+
+Q113: For whom are the Hindu Vedas most significant?
+  A: Brahmins
+  B: Kshatriyas
+  C: Shiva
+  D: Yogis
+  correct: A
+
+Q114:  According to the Korean foundation myth, who transformed into a human in order to father Dangun?
+  A: Hwanin
+  B: Hwanung
+  C: Joseon
+  D: Yi
+  correct: B
+
+Q115:  In Buddhism, what are ordained women known as?
+  A: Bhikshus
+  B: Bhikshunis
+  C: The Sangha
+  D: Arhats
+  correct: B
+
+Q116:  What is the name of the most authoritative Kabbalah text?
+  A: Gemarah
+  B: Midrash
+  C: Zohar
+  D: Septuagint
+  correct: C
+
+Q117:  Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?
+  A: Dao
+  B: Xunzi
+  C: Mencius
+  D: Confucius
+  correct: C
+
+Q118:  Which of the following does the Qur'an permit?
+  A: Honor Killing
+  B: Stoning
+  C: Adultery
+  D: Polygyny
+  correct: D
+
+Q119:  Which is the main form of Buddhism in Sri Lanka?
+  A: Theravada
+  B: Mahayana
+  C: Pure Land
+  D: Zen
+  correct: A
+
+Q120:  Which leader is known for spreading the dharma of non-violence?
+  A: Ngo Dinh Diem
+  B: The Dalai Lama
+  C: Siddhartha
+  D: Ashoka
+  correct: D
+
+Q121: What are the two sacraments that all Christians celebrate?
+  A: Baptism and Eucharist
+  B: Baptism and Ordination
+  C: Eucharist and Marriage
+  D: Eucharist and Confession
+  correct: A
+
+Q122: What is the most important festival for Sikhs?
+  A: Holi
+  B: Divali
+  C: Baisakhi Day
+  D: Hola Mahalla
+  correct: C
+
+Q123:  Who declared Muhammad a prophet?
+  A: Khadijah
+  B: Gabriel
+  C: Waraqah
+  D: Abu Bakr
+  correct: C
+
+Q124: The Jataka tales are a collection of which genre of stories?
+  A: Life stories
+  B: Warrior stories
+  C: Birth stories
+  D: Hero stories
+  correct: C
+
+Q125:  Which of the following is the timespan for Japan's closure to Christianity and Europe?
+  A: 1749-1945
+  B: 1052-1616
+  C: 1641-1853
+  D: 1517-1870
+  correct: C
+
+Q126:  In Yiddish, what is the word for covenant?
+  A: Haggadah
+  B: Halakhah
+  C: Brit
+  D: Bris
+  correct: D
+
+Q127: According to the Sumerian King List, where does kingship come from?
+  A: Through initiation into the mystery cults
+  B: By military victories
+  C: Direct lineage of ancestors
+  D: Descends from heaven
+  correct: D
+
+Q128: What is the name of the Hindu community associated with environmental activism?
+  A: Puranas
+  B: Bishnoi
+  C: Rajasthan
+  D: Jambho
+  correct: B
+
+Q129:  Which bodhisattva is known for conducting the souls of dead children to salvation?
+  A: Guan-yin
+  B: Kannon
+  C: Ojizo-sama
+  D: Amitabha
+  correct: C
+
+Q130:  The Gospel of John is associated with which theological concept?
+  A: Incarnation
+  B: Logos of God
+  C: Jesus as messiah and saviour
+  D: All of the above
+  correct: D
+
+Q131: Which god supplanted the earlier Mesopotamian supreme god Enil?
+  A: Horus
+  B: Inanna
+  C: Marduk
+  D: Isis
+  correct: C
+
+Q132: Which of the following movements was founded by Mordechai Kaplan?
+  A: Liberal Judaism
+  B: Reform Judaism
+  C: Conservative Judaism
+  D: Reconstructionist Judaism
+  correct: D
+
+Q133: When was the State of Israel established?
+  A: 1947
+  B: 1948
+  C: 1945
+  D: 1949
+  correct: B
+
+Q134:  Icons are a main feature of which church?
+  A: Anglican
+  B: Catholic
+  C: Orthodox
+  D: Lutheran
+  correct: C
+
+Q135: The first of the Four Noble Truths teaches which of the following cannot be escaped?
+  A: Pride
+  B: Hatred
+  C: Suffering
+  D: Fate
+  correct: C
+
+Q136:  The Continental Reformation started in what year?
+  A: 1545
+  B: 1517
+  C: 1492
+  D: 1705
+  correct: B
+
+Q137: The minimalism of Haiku is said to be derived from which tradition?
+  A: Zen Buddhism
+  B: Shinto
+  C: Pure Land Buddhism
+  D: Confucianism
+  correct: A
+
+Q138: Which deity is the Roman counterpart to the Greek god Zeus?
+  A: Jupiter
+  B: Juno
+  C: Dionysius
+  D: Neptune
+  correct: A
+
+Q139: The philosopher Laozi is associated with which tradition?
+  A: Jainism
+  B: Buddhism
+  C: Confucianism
+  D: Daoism
+  correct: D
+
+Q140:  Which Egyptian gods did Akhenaten make a determined effort to eliminate?
+  A: Shu and Set
+  B: Horus and Isis
+  C: Amun and Mut
+  D: Khonsu and Nekhbet
+  correct: C
+
+Q141: The term xin refers to which of the following?
+  A: Piety
+  B: Non-action
+  C: Heart-mind
+  D: World
+  correct: C
+
+Q142:  Which term in the dharma texts of the classical period denotes the four stages of life?
+  A: Kama
+  B: Samnyasin
+  C: Ashramas
+  D: Arthas
+  correct: C
+
+Q143: What is the term for commentary on the Qur'an, which means "unveiling"?
+  A: fiqh
+  B: dhikr
+  C: ijtihad
+  D: tafsir
+  correct: D
+
+Q144:  With which branch of Islam are the Isma'ilis are associated?
+  A: The Sunni
+  B: The Shi'a
+  C: The Sufi
+  D: The Ahmadiyya
+  correct: B
+
+Q145:  The term mappo is associated with which of the following?
+  A: The dharma
+  B: An age of decline
+  C: The golden age
+  D: Samurai
+  correct: B
+
+Q146:  What is the name of the bodhisattva in Japan known for a commitment to alleviating suffering?
+  A: Amaterasu
+  B: Izanami
+  C: Kannon
+  D: Guanyin
+  correct: C
+
+Q147: Who was the first significant anchorite hermit?
+  A: Pachomius
+  B: Athanasius
+  C: Anthony
+  D: Basil
+  correct: C
+
+Q148: Which are the synoptic Gospels?
+  A: Peter, John, Mark
+  B: Matthew, Mark, John
+  C: Matthew, Mark, Luke
+  D: John, Luke, Mark
+  correct: C
+
+Q149: What is the English title for the divination text also known as the Yijing?
+  A: The Classic of Documents
+  B: The Lotus Sutra
+  C: The Flower Garland Sutra
+  D: The Classic of Changes
+  correct: D
+
+Q150:  Where was the most famous site of the mystery cults in Greece?
+  A: Ephesus
+  B: Corinth
+  C: Athens
+  D: Eleusis
+  correct: D
+
+Q151: When did the Babylonian captivity of "Exile" begin?
+  A: 515 BCE
+  B: 535 BCE
+  C: 586 BCE
+  D: 70 CE
+  correct: C
+
+Q152:  The term vajrya means diamond and which of the following?
+  A: Emerald
+  B: Brilliance
+  C: Thunderbolt
+  D: Lightning
+  correct: C
+
+Q153:  In Jainism, what is the cycle that one must liberate oneself from?
+  A: Punya
+  B: Samsara
+  C: Samayika
+  D: Jiva
+  correct: B
+
+Q154:  The classic text Daodejing is known by what title in English?
+  A: Classic of Changes
+  B: Classic of the Way and Power
+  C: Classic of Women
+  D: Classic of Philosophy
+  correct: B
+
+Q155:  The Communidades de Base is associated with which of the following?
+  A: Bishop Oscar Romero
+  B: Resistance and renewal
+  C: Dignity of all human beings
+  D: All of the above
+  correct: D
+
+Q156: What does the term matsuri mean?
+  A: Amulets
+  B: Meditation
+  C: Rituals
+  D: Grand festivals
+  correct: D
+
+Q157:  Which Roman statesman encouraged civic religion in his work The Laws?
+  A: Varro
+  B: Plato
+  C: Cicero
+  D: Augustus
+  correct: C
+
+Q158:  What does "Svetambara" mean?
+  A: "Sky-clad"
+  B: "Naked"
+  C: "White-clad"
+  D: "Clothed"
+  correct: C
+
+Q159: What is seen by Europeans, and many Muslims, as the symbol of Islam?
+  A: The Hijab
+  B: The Crescent
+  C: The Minaret
+  D: The Qur'an
+  correct: B
+
+Q160:  What is the purpose for hearing the Guru's Vak in the morning?
+  A: Prayers on behalf of people outside of the Sikh community
+  B: Communal confession to cleanse the community
+  C: Inspiration for personal meditation throughout the day
+  D: Doctrinal instruction for discussion in the community
+  correct: C
+
+Q161:  What are the rabbinical commentaries produced after the Mishnah called?
+  A: Septuagint
+  B: Talmud
+  C: Yeshiva
+  D: Gemarah
+  correct: D
+
+Q162: What is a mohel?
+  A: A ritual circumciser
+  B: A type of oil lame
+  C: A teacher
+  D: A covenant
+  correct: A
+
+Q163: The "Flower Sermon" is associated with which form of Buddhism?
+  A: Theravada
+  B: Chan-Zen
+  C: Pure Land
+  D: Yogicara
+  correct: B
+
+Q164:  When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?
+  A: Early Third Century BCE
+  B: Second and First Century BCE
+  C: Late Sixth Century BCE
+  D: Fourth and Third Century BCE
+  correct: C
+
+Q165:  What is the foremost reason for wearing the hijab in the present day?
+  A: Islamic identity
+  B: Islamic modesty
+  C: Islamic obedience
+  D: Islamic seclusion
+  correct: A
+
+Q166: The Oral Torah, in its written form, is known as what?
+  A: Mishnah
+  B: Midrash
+  C: Tanakh
+  D: Pentateuch
+  correct: A
+
+Q167: What has been a central focus of religious traditions in China and Korea?
+  A: Peace and harmony
+  B: Power and influence
+  C: Truth and love
+  D: Wisdom and ethics
+  correct: A
+
+Q168:  To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?
+  A: The Buddha
+  B: Laozi
+  C: The Queen Mother of the West
+  D: Confucius
+  correct: C
+
+Q169:  The theological term homoousios means which of the following?
+  A: of a similar substance
+  B: of the same substance
+  C: of like substance
+  D: of human substance
+  correct: B
+
+Q170: According to the Japanese origin myth, who gives birth to Amaterasu from his left eye?
+  A: Es
+  B: Izanagi
+  C: Izanami
+  D: Kami
+  correct: B
+
+Q171:  The numen of Augustus referred to which of the following characteristics?
+  A: Divine power
+  B: Sexual virility
+  C: Military acumen
+  D: Philosophical intellect
+  correct: A
+

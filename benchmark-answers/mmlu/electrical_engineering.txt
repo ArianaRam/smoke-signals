@@ -1,0 +1,1021 @@
+subject: electrical_engineering
+source: MMLU (Hendrycks et al., 2021)
+number of questions: 145
+format: question, four choices (A-D), correct answer
+license: MIT
+
+Q1: The Barkhausen criterion for an oscillator
+  A: Loop gain should be unity
+  B: Loop gain should be less than unity
+  C: The phase of a feedback signal with respect to input should be 0° or 360°
+  D: Both A and C
+  correct: D
+
+Q2: Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because
+  A: It loads the circuit moderately.
+  B: It loads the circuit to maximum extent.
+  C: It uses centre zero galvanometer instead of voltmeter.
+  D: It does not load the circuit at all.
+  correct: D
+
+Q3: Which of these sets of logic gates are designated as universal gates?
+  A: NOR, NAND.
+  B: XOR, NOR, NAND.
+  C: OR, NOT, AND.
+  D: NOR, NAND, XNOR.
+  correct: A
+
+Q4: A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is
+  A: 30° to 150°.
+  B: 30° to 180°.
+  C: 60° to 120°.
+  D: 60° to 180°.
+  correct: A
+
+Q5: A box which tells the effect of inputs on control sub system is known as
+  A: Data Box.
+  B: Logical box.
+  C: Decision box.
+  D: State box.
+  correct: C
+
+Q6: Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is
+  A: same as that produced by one plate.
+  B: double the field produced by one plate.
+  C: dependent on coordinates of field points.
+  D: zero.
+  correct: D
+
+Q7: The resistance in the circuit of the moving coil of a dynamometer wattmeter should be
+  A: Low.
+  B: Very low.
+  C: High.
+  D: Almost zero.
+  correct: C
+
+Q8: The following are the necessary requirements of an oscillator
+  A: Amplitude stability
+  B: Frequency stability
+  C: Power stability
+  D: Both A and B
+  correct: D
+
+Q9: The normal voltage used in directional heating is
+  A: 1.5 KV.
+  B: 15 KV.
+  C: 33 KV.
+  D: 66 KV.
+  correct: A
+
+Q10: LC oscillators are used for produce a waveform with frequency ranging from
+  A: 1MHz to 500 MHz
+  B: 100 KHz to 500 MHz
+  C: 1 KHz to 1 MHz
+  D: 1MHz to 100 GHz
+  correct: A
+
+Q11: A working diode must have
+  A: High resistance when forward or reverse biased
+  B: Low resistance when forward biased, while high resistance when reverse bias
+  C: High resistance when forward biased, while low resistance when reverse bias
+  D: Low resistance when forward or reverse biased
+  correct: B
+
+Q12: What is the name of the fluorescent material that gives red colour fluorescence?
+  A: Zinc silicate.
+  B: Calcium silicate.
+  C: Zinc sulphide.
+  D: Magnesium silicate.
+  correct: D
+
+Q13: How many bits are required to store one BCD digit ?
+  A: 1
+  B: 2
+  C: 3
+  D: 4
+  correct: D
+
+Q14: Commutator in DC generator is used for
+  A: collecting of current
+  B: reduce losses
+  C: increase efficiency
+  D: convert AC armature current in to DC
+  correct: D
+
+Q15: 1 F is theoretically equal to
+  A: 1 ohm of resistance
+  B: ratio of 1 V to 1 C
+  C: ratio of 1 C to 1 V
+  D: none of these
+  correct: C
+
+Q16: How many entries will be in the truth table of a 3 input NAND gate ?
+  A: 3
+  B: 6
+  C: 8
+  D: 9
+  correct: C
+
+Q17: In decimal number system what is MSD
+  A: First digit from left to right
+  B: First digit from right to left
+  C: Middle digit
+  D: Mean of all digits
+  correct: A
+
+Q18: In Digital Logic Designs, GAL is abbreviated as
+  A: General Advance Logic
+  B: General Array Logic
+  C: Generic Advance Logic
+  D: Generic Array Logic
+  correct: D
+
+Q19: Inintel 8085A microprocessor ALE signal is made high to
+  A: Enable the data bus to be used as low order address bus
+  B: To latch data D0-D7 from data bus
+  C: To disable data bus
+  D: To achieve all the functions listed above
+  correct: A
+
+Q20: For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?
+  A: 111.9 ohm
+  B: 11.19 ohm
+  C: 108 ohm
+  D: 115 ohm
+  correct: A
+
+Q21: The concept of V/f control of inverters driving induction motors resuls in
+  A: constant torque operation
+  B: speed reversal
+  C: reduced magnetic loss
+  D: hormonic elimination
+  correct: A
+
+Q22: The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is
+  A: 0.015 joule.
+  B: 0.15 joule.
+  C: 0.015 joule.
+  D: 1.15 joule.
+  correct: B
+
+Q23: While operating on variable frequency supplies, the AC motor requires variable voltage in order to
+  A: protect the insulation.
+  B: avoid effect of saturation.
+  C: improve the capabilities of the inverter.
+  D: protect thyristor from dV / dt.
+  correct: B
+
+Q24: Which of the following windings are necessary in case of all dc machines?
+  A: closed winding
+  B: lap winding
+  C: wave winding
+  D: open type winding
+  correct: A
+
+Q25: Relaxation Voltage controlled oscillators are used to generate
+  A: Sinusoidal wave
+  B: Triangular wave
+  C: Sawtooth wave
+  D: Both B and C
+  correct: D
+
+Q26: The supply frequency usually employed for high frequency eddy current heating is
+  A: 1 KHz.
+  B: 5 KHz.
+  C: 10 MHz.
+  D: 10 KHz to 400 KHz.
+  correct: D
+
+Q27: In the toggle mode a JK flip-flop has
+  A: J = 0, K = 0.
+  B: J = 1, K = 1.
+  C: J = 0, K = 1.
+  D: J = 1, K = 0.
+  correct: B
+
+Q28: Electric drive is becoming more and more popular because
+  A: all of below.
+  B: it provide smooth and easy control.
+  C: it is cheaper in cost.
+  D: it is simple and reliable.
+  correct: A
+
+Q29: A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is
+  A: 0.32.
+  B: 0.67.
+  C: 0.45.
+  D: 0.27.
+  correct: B
+
+Q30: A Binary number system has how many digits.
+  A: 0
+  B: 1
+  C: 2
+  D: 10
+  correct: C
+
+Q31: Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is
+  A: LC.
+  B: RL.
+  C: RC.
+  D: Any of the above.
+  correct: C
+
+Q32: Advantages of open loop control system is/are
+  A: simple and economical.
+  B: accurate.
+  C: reliable.
+  D: all of the above.
+  correct: A
+
+Q33: The voltage induced in an inductor is represented as,
+  A: product of its inductance and current through it.
+  B: ratio of its inductance to current through it.
+  C: ratio of current through it to its inductance.
+  D: product of its inductance and rate of change of current through it.
+  correct: D
+
+Q34: If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits
+  A: 1
+  B: 2
+  C: 4
+  D: 8
+  correct: C
+
+Q35: Induction heating takes place in
+  A: conducting but non-magnetic materials.
+  B: conducting materials which may be either magnetic or non-magentic materials.
+  C: insulating materials.
+  D: conducting and magnetic materials.
+  correct: B
+
+Q36: In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch
+  A: 10
+  B: 100
+  C: 50
+  D: 1
+  correct: A
+
+Q37: Magnetic flux has the unit of
+  A: Newton
+  B: Ampere turn
+  C: Weber
+  D: Tesla
+  correct: C
+
+Q38: In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem
+  A: Reciprocity theorem
+  B: Thevinin's theorem
+  C: Norton's theorem
+  D: Compensation theorem
+  correct: A
+
+Q39: A D-flip-flop is said to be transparent when
+  A: the output is LOW
+  B: the output is HIGH
+  C: the output follows clock
+  D: the output follow input
+  correct: D
+
+Q40: A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be
+  A: 500 Hz.
+  B: 250 Hz.
+  C: 400 Hz.
+  D: 625 Hz.
+  correct: B
+
+Q41: Speed control by variation of field flux results in
+  A: constant power drive.
+  B: constant torque drive.
+  C: variable power drive.
+  D: none of the above.
+  correct: A
+
+Q42: Which of the following memories uses one transistor and one capacitor as basic memory unit
+  A: SRAM
+  B: DRAM
+  C: Both SRAM and DRAM
+  D: None
+  correct: B
+
+Q43: What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?
+  A: 2
+  B: 4
+  C: 5
+  D: 6
+  correct: A
+
+Q44: The output of the system has an effect upon the input quantity, then the system is a
+  A: open loop control system.
+  B: closed loop control system.
+  C: either A or B.
+  D: none of the above.
+  correct: B
+
+Q45: A sinusoidal signal is analog signal, because
+  A: it can have a number of values between the negative and positive peaks
+  B: it is negative for one half cycle
+  C: it is positive for one half cycle
+  D: it has positive as well as negative values
+  correct: A
+
+Q46: FM stands for
+  A: frequent modulation.
+  B: frequency modulation.
+  C: frequency moderator.
+  D: frequent moderator.
+  correct: B
+
+Q47: Stack is also known as
+  A: FIFO memory
+  B: Flash memory
+  C: LIFO memory
+  D: LILO memory
+  correct: C
+
+Q48: In Ward-Leonard system, the lower limit of the speed imposed by
+  A: Field resistance.
+  B: Armature resistance.
+  C: Residual magnetism of the generator.
+  D: None of above.
+  correct: C
+
+Q49: Colpitts oscillator is also called as
+  A: Tank circuit oscillator
+  B: LC oscillator
+  C: Resonant circuit oscillator
+  D: All of the above
+  correct: D
+
+Q50: An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be
+  A: 1500 A.
+  B: 6000 A.
+  C: 2121.32 A.
+  D: 4242.64 A.
+  correct: C
+
+Q51: Both the ALU and control section of CPU employ which special purpose storage location?
+  A: Buffers
+  B: Decoders
+  C: Accumulators
+  D: Registers
+  correct: C
+
+Q52: Systematic errors are
+  A: environmental errors.
+  B: observational errors.
+  C: instrument errors.
+  D: all of the above.
+  correct: D
+
+Q53: Which of the following is/are the disadvantages of an open loop control system?
+  A: Inaccurate.
+  B: Unreliable.
+  C: both A and B.
+  D: none of the above.
+  correct: C
+
+Q54: A diode (p-n junction) when reverse biased act as
+  A: On Switch
+  B: Zener diode
+  C: Capacitor
+  D: Off Switch
+  correct: D
+
+Q55: Piezoelectric effect is carried out in
+  A: composite filter.
+  B: crystal filter.
+  C: m derived.
+  D: constant k prototype.
+  correct: B
+
+Q56: The resistivity of the conductor depends on
+  A: area of the conductor.
+  B: length of the conductor.
+  C: type of material.
+  D: none of these.
+  correct: C
+
+Q57: The smallest change in measured variable to which instrument will respond is
+  A: resolution.
+  B: accuracy.
+  C: precision.
+  D: sensitivity.
+  correct: A
+
+Q58: In electronic communications, "AM" stands for
+  A: Amp Modification
+  B: Amplitude Method
+  C: Amplitude Modulation
+  D: Ampere Method
+  correct: C
+
+Q59: Which system is also known as automatic control system?
+  A: Open loop control system
+  B: Closed loop control system
+  C: Either A or B
+  D: Nether A nor B
+  correct: B
+
+Q60: A combinational PLD with a fixed AND array and a programmable OR array is called a
+  A: PLD
+  B: PROM
+  C: PAL
+  D: PLA
+  correct: B
+
+Q61: A null type instrument as compared to a deflected type instrument has
+  A: a lower sensitivity.
+  B: a faster response.
+  C: a higher accuracy.
+  D: all of the above.
+  correct: C
+
+Q62: Length of the cable is doubled, its capacitance C will be
+  A: one-fourth.
+  B: one-half.
+  C: doubled.
+  D: unchanged.
+  correct: C
+
+Q63: Electrons in p-type material of a semi-conductor are called as
+  A: either minority carriers or majority carriers
+  B: minority carriers
+  C: majority carriers
+  D: valance carriers
+  correct: B
+
+Q64: ________ is the most detrimental impurity in the magnetic materials
+  A: Carbon.
+  B: Sulphur.
+  C: Oxygen.
+  D: Nitrogen.
+  correct: A
+
+Q65: Voltage controlled oscillators are used commonly in
+  A: Pulse Modulators Frequency Modulators Phase Clocked loops
+  B: Frequency Modulators
+  C: Phase Clocked loops
+  D: All the above
+  correct: D
+
+Q66: Low frequency supply is necessary for direct core type induction furnaces because
+  A: With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.
+  B: Magnetic coupling between the primary and secondary circuit is poor.
+  C: Both A and B.
+  D: None of the above.
+  correct: C
+
+Q67: The moving coil-meters, damping is provided by
+  A: the aluminium frame of the coil.
+  B: the coil spring attached to the moving.
+  C: eddy current disk.
+  D: damping vane in the airtight chamber.
+  correct: A
+
+Q68: Which of the following is the analogous quantity for mass element in force-voltage analogy?
+  A: Resistance.
+  B: Inductance.
+  C: Capacitance.
+  D: All of the above.
+  correct: B
+
+Q69: A latch is ________ sensitive
+  A: both level and edge
+  B: edge
+  C: level
+  D: None
+  correct: C
+
+Q70: What is used to protect the SCR from over current ?
+  A: CB and fuse.
+  B: Heat sink.
+  C: Snubber circuit.
+  D: Voltage clamping device.
+  correct: A
+
+Q71: The errors mainly caused by human mistakes are
+  A: gross error.
+  B: instrumental error.
+  C: observational error.
+  D: systematic error.
+  correct: A
+
+Q72: Electrical analogous quantity for dash-pot in force-current analogy is
+  A: resistance.
+  B: conductance.
+  C: inductance.
+  D: capacitance.
+  correct: B
+
+Q73: Which lamp has the best Colour Rendering Index (CRI)?
+  A: LED
+  B: Fluorescent
+  C: Incandescent
+  D: High pressure sodium vapour
+  correct: C
+
+Q74: Power dissipation in ideal inductor is
+  A: Maximum
+  B: Minimum
+  C: Zero
+  D: A finite value
+  correct: C
+
+Q75: For intermittent work which of the following furnace is suitable?
+  A: Core less furnace.
+  B: Indirect arc furnace.
+  C: Either of above.
+  D: Nither of above.
+  correct: B
+
+Q76: In electrical resistance welding material of electrode should have
+  A: higher electrical conductivities.
+  B: higher thermal conductivities.
+  C: sufficient strength to sustain high pressure at elevated temperatures.
+  D: all of above.
+  correct: D
+
+Q77: Which of the following are the passive elements?
+  A: Resistor
+  B: Bulb
+  C: Both
+  D: None of these.
+  correct: C
+
+Q78: The main advantage of dielectric heating is that
+  A: heating occurs in the material itself.
+  B: heating occurs due to high frequency.
+  C: it can be used for drying the explosives.
+  D: None of the above.
+  correct: A
+
+Q79: Materials used in heat sink should have
+  A: high thermal conductivity.
+  B: large surface area.
+  C: high melting point.
+  D: All of these.
+  correct: D
+
+Q80: Conductor is static and the field is varying then emf will be induced. This principle is called
+  A: virtually induced emf.
+  B: dynamically induced emf.
+  C: static induced emf.
+  D: none of these
+  correct: C
+
+Q81: Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is
+  A: 500 MVA
+  B: 400 MVA
+  C: 125 MVA
+  D: 100 MVA
+  correct: A
+
+Q82: According to the Bohr model, an electron gains or losses energy only by
+  A: moving faster or slower in an allowed orbit.
+  B: jumping from one allowed orbit to another.
+  C: being completely removed from an atom.
+  D: jumping from one atom to another atom.
+  correct: B
+
+Q83: A three-state buffer has the following output states
+  A: 1, 0, float
+  B: High, Low, Float
+  C: Both A and B
+  D: Set, Reset, Halt
+  correct: C
+
+Q84: By using which of the following elements, mechanical translational systems are obtained?
+  A: mass element
+  B: spring element
+  C: dash-pot
+  D: all of the above
+  correct: D
+
+Q85: Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be
+  A: 160 µF
+  B: 10 µF
+  C: 40 µF
+  D: 5 µF
+  correct: A
+
+Q86: The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be
+  A: R Ω
+  B: 2R Ω
+  C: 4R Ω
+  D: 8R Ω
+  correct: C
+
+Q87: A single phase full bridge inverter can operated in load commutation mode in case load consist of
+  A: RL.
+  B: RLC underdamped.
+  C: RLC overdamped.
+  D: RLC critically damped.
+  correct: B
+
+Q88: A microprocessor is ALU
+  A: and control unit on a single chip.
+  B: and memory on a single chip.
+  C: register unit and I/O device on a single chip.
+  D: register unit and control unit on a single chip.
+  correct: D
+
+Q89: To obtain a high value of capacitance, the permittivity of dielectric medium should be
+  A: low
+  B: zero
+  C: high
+  D: unity
+  correct: C
+
+Q90: Deflection method direct measurements are most widely used as these are
+  A: least time consuming.
+  B: most simple.
+  C: most simple and least time consuming.
+  D: most accurate.
+  correct: C
+
+Q91: Purely mechanical instrument cannot be used for dynamic measurements because they have
+  A: high inertia.
+  B: higher response time.
+  C: large time constant.
+  D: all of the above.
+  correct: D
+
+Q92: Advantages of higher transmission voltage is/are
+  A: Power transfer capability of the transmission line is increased
+  B: Transmission line losses are reduced
+  C: Area of cross section and volume of the conductor is reduced
+  D: all of the above
+  correct: D
+
+Q93: Under over voltage condition impedance offered by the voltage clamping device is
+  A: high.
+  B: low.
+  C: moderate.
+  D: infinity.
+  correct: B
+
+Q94: A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at
+  A: lower surface of the conductor.
+  B: upper surface of the conductor.
+  C: the ground surface.
+  D: midway between the conductor and ground.
+  correct: A
+
+Q95: In a dc machine 6 pole wave winding is used. The number of parallel paths are?
+  A: 6
+  B: 4
+  C: 2
+  D: 1
+  correct: C
+
+Q96: Which of the following is a digital device
+  A: Regulator of a fan
+  B: Microphone
+  C: Resistance of a material
+  D: Light switch
+  correct: D
+
+Q97: Instantaneous power in inductor is proportional to the
+  A: product of the instantaneous current and rate of change of current.
+  B: square of instantaneous current.
+  C: square of the rate of change of current.
+  D: temperature of the inductor.
+  correct: A
+
+Q98: Which of the following is a variable displacement transducer?
+  A: tachometer
+  B: potentiometer
+  C: synchros
+  D: none of the above
+  correct: B
+
+Q99: Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be
+  A: 5 µF
+  B: 25 µF
+  C: 10 µF
+  D: 1 µF
+  correct: D
+
+Q100: Susceptibility is negative for
+  A: non magnetic substances.
+  B: diamagnetic substances.
+  C: ferromagnetic substances.
+  D: none of above.
+  correct: B
+
+Q101: One of the following is the primary function of an oscillator
+  A: produces sinusoidal oscillations
+  B: generates non sinusoidal waveforms
+  C: generates sustained oscillations at a constant amplitude and specific frequency
+  D: none of the above
+  correct: C
+
+Q102: The metal surfaces for electrical resistance welding must be
+  A: rough.
+  B: clean.
+  C: moistened
+  D: coloured
+  correct: B
+
+Q103: The latching current of SCR is 20 mA. Its holding current will be
+  A: 23 mA.
+  B: 40 mA.
+  C: 10 mA.
+  D: 60 mA.
+  correct: C
+
+Q104: In force-current analogy, electrical analogous quantity for displacement (x) is
+  A: voltage.
+  B: inductance.
+  C: capacitance.
+  D: flux.
+  correct: D
+
+Q105: Feedback circuit in an oscillator can be accomplished by
+  A: Resistive coupling between input and output
+  B: Capacitive coupling between input and output
+  C: Inductive coupling between input and output
+  D: Any one or combinations of the above methods
+  correct: D
+
+Q106: Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is
+  A: LC circuit.
+  B: RC circuit.
+  C: RLC circuit.
+  D: RL Circuit.
+  correct: D
+
+Q107: What is the value of dielectric constant of air?
+  A: Less than 1
+  B: 0.
+  C: 1.
+  D: none of these.
+  correct: C
+
+Q108: Temperature variation is a/an
+  A: Digital quantity
+  B: Analog quantity
+  C: Either Digital or Analog quantity
+  D: None
+  correct: B
+
+Q109: The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is
+  A: 30
+  B: 140.
+  C: 150.
+  D: 200.
+  correct: C
+
+Q110: For a dc machine shunt resistance and armature resistance values are
+  A: high and high
+  B: high and low
+  C: low and low
+  D: low and high
+  correct: B
+
+Q111: The change of cross sectional area of conductor in magnetic field will affect
+  A: reluctance of conductor.
+  B: resistance of conductor.
+  C: (A) and (B) both in the same way.
+  D: none of above.
+  correct: C
+
+Q112: Which of the following is used in SCR to protect from high dV / dt?
+  A: Snubber circuit.
+  B: Fuse.
+  C: Equalizing circuit.
+  D: Circuit breaker.
+  correct: A
+
+Q113: What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?
+  A: Mnemonics
+  B: Directives
+  C: Identifiers
+  D: Operands
+  correct: B
+
+Q114: Speed of data transmission in 4-G network of telecom is
+  A: 386 kbps - 2 mbps.
+  B: 2 mbps.
+  C: 2 mbps – 1 gbps.
+  D: 100 mbps - 1 gbps.
+  correct: D
+
+Q115: Which of the followings is/are active element?
+  A: Voltage source
+  B: Current source
+  C: Both
+  D: None of these.
+  correct: C
+
+Q116: Electrical analogous quantity for spring element (K) in force-voltage analogy is
+  A: L
+  B: R
+  C: 1/C
+  D: C
+  correct: C
+
+Q117: A quartz crystal oscillator consists of
+  A: only series resonant frequency.
+  B: only parallel resonant frequency.
+  C: both series and parallel frequencies.
+  D: neither series nor parallel frequency.
+  correct: C
+
+Q118: Which of the following oscillators are used for low frequency (LF) applications
+  A: LC oscillators
+  B: RC oscillators
+  C: Both LC and RC Oscillators
+  D: None
+  correct: B
+
+Q119: The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is
+  A: 3 / 2.
+  B: 1 / 3.
+  C: 2 / 3.
+  D: 2 / 5.
+  correct: C
+
+Q120: Relative error is same as
+  A: ratio of absolute error and true value.
+  B: absolute error.
+  C: true error.
+  D: none of the above.
+  correct: A
+
+Q121: If holding current of a thyristor is 2 mA then latching current should be
+  A: 0.01 A.
+  B: 0.002 A.
+  C: 0.009 A.
+  D: 0.004 A.
+  correct: D
+
+Q122: In an intel 8085A, which is the first machine cycle of an instruction?
+  A: An op-code fetch cycle
+  B: A memory read cycle
+  C: A memory write cycle
+  D: An I/O read cycle
+  correct: A
+
+Q123: Which of the following are the disadvantages of a closed loop control system?
+  A: Reduces the overall gain.
+  B: Complex and costly.
+  C: Oscillatory response.
+  D: All of the above.
+  correct: D
+
+Q124: Poles and zeros are arranged alternatively on negative real axis, then type of network is/are
+  A: LC network.
+  B: RC network.
+  C: RL network.
+  D: Both 2 and 3.
+  correct: D
+
+Q125: The magnetisation and applied field in ferromagnetic materials are related
+  A: sinusoidally.
+  B: non linearly.
+  C: linearly.
+  D: parabolically.
+  correct: B
+
+Q126: Thin laminations are used in a machine in order to reduce
+  A: Eddy current losses
+  B: Hysteresis losses
+  C: Both A and B
+  D: Copper losses
+  correct: A
+
+Q127: A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is
+  A: 40π coulombs.
+  B: 80π coulombs.
+  C: 10π coulombs.
+  D: none of these.
+  correct: B
+
+Q128: In binary number system the first digit (bit) from right to left is called as
+  A: LSB, Least Significant Bit
+  B: MSB, Most Significant Bit
+  C: First Bit
+  D: Last Bit
+  correct: A
+
+Q129: In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is
+  A: 0.
+  B: 0.5.
+  C: 1.
+  D: none of above.
+  correct: B
+
+Q130: A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage
+  A: 3.33 %.
+  B: 2.66 %.
+  C: 2 %.
+  D: 1 %.
+  correct: B
+
+Q131: Which of the following methods is/are used for reactive or voltage compensation
+  A: shunt capacitor
+  B: series capacitor
+  C: generation excitation control
+  D: all of the above
+  correct: D
+
+Q132: The ROM programmed during manufacturing process itself is called
+  A: MROM
+  B: PROM
+  C: EPROM
+  D: EEPROM
+  correct: A
+
+Q133: In 8085 name/names of the 16 bit registers is/are
+  A: stack pointer.
+  B: program counter.
+  C: both A and B.
+  D: none of these.
+  correct: C
+
+Q134: Stability of a transmission line can be increased by
+  A: shunt capacitor
+  B: series capacitor
+  C: shunt reactor
+  D: both A and B
+  correct: D
+
+Q135: Snubber circuit is used with SCR
+  A: in series.
+  B: in parallel.
+  C: either series or parallel.
+  D: anti parallel.
+  correct: B
+
+Q136: The number of rings in the Bohr model of any element is determined by what?
+  A: Column number on periodic table.
+  B: Atomic mass.
+  C: Row number on periodic table.
+  D: Atomic number.
+  correct: C
+
+Q137: Silicon and Germanium are ________ elements.
+  A: trivalant
+  B: pentavalant
+  C: hexavalant
+  D: tetravalant
+  correct: D
+
+Q138: The number of output pins in 8085 microprocessors are
+  A: 27.
+  B: 40.
+  C: 21.
+  D: 19.
+  correct: A
+
+Q139: If P is the power of a star connected system then what will be power of an equivalent delta connected system?
+  A: P
+  B: 3P
+  C: P/3
+  D: None of the above
+  correct: A
+
+Q140: Which oscillators are easy to fabricate in a monolithic IC?
+  A: Crystal oscillator.
+  B: Hartley oscillator.
+  C: Wien bridge oscillator.
+  D: Relaxation oscillator.
+  correct: D
+
+Q141: If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is
+  A: DC only
+  B: AC only
+  C: Either AC or DC
+  D: An Impulse
+  correct: C
+
+Q142: The feedback factor of a Wien bridge oscillator using Op-Amp is
+  A: 1/3
+  B: 1/4
+  C: 1/2
+  D: 1
+  correct: C
+
+Q143: The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between
+  A: T1 & T2
+  B: T2 & T3
+  C: T3 & T4
+  D: T4 & T1
+  correct: C
+
+Q144: Which of the following is not a sinusoidal oscillator?
+  A: LC oscillator
+  B: RC phase shift oscillator
+  C: Relaxation oscillator
+  D: Crystal oscillator
+  correct: C
+
+Q145: A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be
+  A: parallel to the plane of the wire.
+  B: perpendicular to the circumference of the wire.
+  C: parallel to half portion and perpendicular for the other half.
+  D: none of above.
+  correct: A
+
